@@ -6,7 +6,7 @@ import twitterLight from "./Assets/twitter-light.svg";
 import twitterDark from "./Assets/twitter-dark.svg";
 import githubLight from "./Assets/github-light.svg";
 import githubDark from "./Assets/github-dark.svg";
-import LinkedinLight from "./Assets/LinkedIn-light.svg";
+import LinkedinLight from "./Assets/linkedin-light.svg";
 import LinkedinDark from "./Assets/LinkedIn-dark.svg";
 import CV from "./Assets/Test Resume.pdf";
 import { useTheme } from "../../Common/ThemeContext";
